@@ -1,0 +1,14 @@
+/Users/sametcelikbicak/Desktop/MacOSDotNet/bin/Debug/netcoreapp2.1/MacOSDotNet.deps.json
+/Users/sametcelikbicak/Desktop/MacOSDotNet/bin/Debug/netcoreapp2.1/MacOSDotNet.runtimeconfig.json
+/Users/sametcelikbicak/Desktop/MacOSDotNet/bin/Debug/netcoreapp2.1/MacOSDotNet.runtimeconfig.dev.json
+/Users/sametcelikbicak/Desktop/MacOSDotNet/bin/Debug/netcoreapp2.1/MacOSDotNet.dll
+/Users/sametcelikbicak/Desktop/MacOSDotNet/bin/Debug/netcoreapp2.1/MacOSDotNet.pdb
+/Users/sametcelikbicak/Desktop/MacOSDotNet/obj/Debug/netcoreapp2.1/MacOSDotNet.csprojAssemblyReference.cache
+/Users/sametcelikbicak/Desktop/MacOSDotNet/obj/Debug/netcoreapp2.1/MacOSDotNet.csproj.CoreCompileInputs.cache
+/Users/sametcelikbicak/Desktop/MacOSDotNet/obj/Debug/netcoreapp2.1/MacOSDotNet.RazorAssemblyInfo.cache
+/Users/sametcelikbicak/Desktop/MacOSDotNet/obj/Debug/netcoreapp2.1/MacOSDotNet.RazorAssemblyInfo.cs
+/Users/sametcelikbicak/Desktop/MacOSDotNet/obj/Debug/netcoreapp2.1/MacOSDotNet.AssemblyInfoInputs.cache
+/Users/sametcelikbicak/Desktop/MacOSDotNet/obj/Debug/netcoreapp2.1/MacOSDotNet.AssemblyInfo.cs
+/Users/sametcelikbicak/Desktop/MacOSDotNet/obj/Debug/netcoreapp2.1/MacOSDotNet.RazorTargetAssemblyInfo.cache
+/Users/sametcelikbicak/Desktop/MacOSDotNet/obj/Debug/netcoreapp2.1/MacOSDotNet.dll
+/Users/sametcelikbicak/Desktop/MacOSDotNet/obj/Debug/netcoreapp2.1/MacOSDotNet.pdb
